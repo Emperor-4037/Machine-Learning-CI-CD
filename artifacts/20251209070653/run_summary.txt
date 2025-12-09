@@ -1,0 +1,9 @@
+ML Automation Run Summary
+=========================
+
+Date: 2025-12-09T07:06:59.557195
+
+Model: Linear Regression
+Best Params: None
+Metrics: {'mse': 50.91243797640566, 'r2': -0.01575364508806243}
+--------------------
